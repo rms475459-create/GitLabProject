@@ -1,4 +1,4 @@
-Full Name: Remas
-Student ID: 12345678
-Section: A
+Full Name: Remas alharbi 
+Student ID: 452202572
+Section: Programming
 Favorite Programming Language: Python
